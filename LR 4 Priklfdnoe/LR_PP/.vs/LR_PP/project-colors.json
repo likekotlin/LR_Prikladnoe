@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f159483e-1e72-4094-b55f-9a99ed7d8387": {
+      "ProjectGuid": "f159483e-1e72-4094-b55f-9a99ed7d8387",
+      "DisplayName": "Repository",
+      "ColorIndex": 0
+    },
+    "e1408e12-1eda-4799-9f1f-9b039040abe1": {
+      "ProjectGuid": "e1408e12-1eda-4799-9f1f-9b039040abe1",
+      "DisplayName": "Contracts",
+      "ColorIndex": 1
+    },
+    "5371a502-6c9c-4d18-b472-4abb08b3aeba": {
+      "ProjectGuid": "5371a502-6c9c-4d18-b472-4abb08b3aeba",
+      "DisplayName": "LR_PP",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
